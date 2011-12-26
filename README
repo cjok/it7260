@@ -1,3 +1,7 @@
 touch screen driver for it7260, if you have any question, please contact me, follow the email address: cjok.liao@gmail.com, blog site: http://blog.csdn.net/cjok376240497
 
+it7260_sts.c  single touch screen driver for it7260
+it7260_mts.c  multi-touch screen driver for it7260
+
 verison-11.12.21   create by CJOK
+verison-11.12.26   modifiy by CJOK
